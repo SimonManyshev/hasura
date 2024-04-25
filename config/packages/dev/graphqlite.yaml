@@ -1,0 +1,5 @@
+graphqlite:
+  debug:
+    INCLUDE_DEBUG_MESSAGE: true
+    INCLUDE_TRACE: true
+    RETHROW_UNSAFE_EXCEPTIONS: false
